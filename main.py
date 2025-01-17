@@ -1,0 +1,7 @@
+print("---Lets make dinner!---")
+food = input("What is your favorite food: ")
+fruit = input("Name a fruit: ")
+cooking = input("Name a method of cooking (Past tense): ")
+adjectiveOfFood = input("Name an adjective to describe food: ")
+print("Todays dinner:")
+print(cooking, food, "with", fruit, "is very", adjectiveOfFood)
